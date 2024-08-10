@@ -8,15 +8,15 @@ The OSI (Open Systems Interconnection) Model is a conceptual framework used to a
    
 3. **Network Layer**: Handles routing of packets throughout network limitations. It is responsible for logical addressing and direction determination, using protocols like IP.
    
-4. **Transport Layer**: Ensures dependable information switch between stop structures. It manages float manage, mistakes correction, and records segmentation, with protocols along with TCP and UDP.
+4. **Transport Layer**: Ensures dependable information switch between stop structures. It manages float management, mistakes correction, and records segmentation, with protocols along with TCP and UDP.
    
-Five. **Session Layer**: Manages classes between programs. It establishes, keeps, and terminates connections and synchronizes data trade.
+5. **Session Layer**: Manages classes between programs. It establishes, keeps, and terminates connections and synchronizes data trade.
    
 6. **Presentation Layer**: Translates data codecs between the application layer and community. It handles facts encryption, compression, and translation.
    
-7. **Application Layer**: Provides network services at once to quit-consumer applications. It allows services which includes email, document switch, and network management.
+7. **Application Layer**: Provides network services at once to quit-consumer applications. It allows services that include email, document switch, and network management.
 
-Each layer serves a completely unique purpose and interacts with the layers above and beneath it. Understanding the OSI version helps in diagnosing community issues and designing strong network architectures.
+Each layer serves a unique purpose and interacts with the layers above and beneath it. Understanding the OSI version helps diagnose community issues and design strong network architectures.
 
 ### References:
 * (https://www.iso.org/standard/20269.html) - Official OSI Model Specification
